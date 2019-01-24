@@ -1,4 +1,4 @@
-var playlist = {The Beatles: "Hey Jude"};
+var playlist = {"The Beatles": "Hey Jude"};
 
 function updatePlaylist(list, name, title) {
   list.name = title;
